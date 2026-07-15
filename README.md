@@ -13,14 +13,14 @@ właściciela oprogramowania oraz zapoznania się z celem i zakresem jego dział
 | | |
 |---|---|
 | **Nazwa aplikacji (zarejestrowana)** | Porównanie cen - sonem/deku |
-| **Nagłówek User-Agent** | `Porownanie-cen-sonem-deku/1.0.0 (+https://github.com/UZUPELNIJ/porownanie-cen-info)` |
-| **Aktualna wersja produkcyjna** | 1.0.0 |
+| **Nagłówek User-Agent** | `Porównanie-cen---sonem/deku/1.00 (+https://github.com/Omen1719/porownanie-cen-info/blob/main/README.md)` |
+| **Aktualna wersja produkcyjna** | 1.00 |
 | **Typ aplikacji** | Prywatna aplikacja desktopowa (Electron), używana wyłącznie przez właściciela |
 | **Charakter** | Narzędzie wewnętrzne — nie jest udostępniane osobom trzecim ani publicznie |
 
-> Nazwa w nagłówku `User-Agent` została znormalizowana do postaci ASCII bez spacji i ukośnika
-> (`Porownanie-cen-sonem-deku`), ponieważ specyfikacja nagłówka HTTP nie dopuszcza spacji ani
-> znaku `/` w członie nazwy. Odpowiada ona zarejestrowanej aplikacji „Porównanie cen - sonem/deku".
+> Nagłówek `User-Agent` odpowiada zarejestrowanej aplikacji „Porównanie cen - sonem/deku"
+> (spacje zamienione na myślniki zgodnie z formatem nagłówka). Poprawność zweryfikowano
+> walidatorem Allegro: https://apps.developer.allegro.pl/user-agent
 
 ---
 
