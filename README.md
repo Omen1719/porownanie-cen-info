@@ -29,7 +29,7 @@ właściciela oprogramowania oraz zapoznania się z celem i zakresem jego dział
 | | |
 |---|---|
 | **Podmiot** | Sonem |
-| **Kontakt (administratorzy Allegro)** | bartula.michal1@gmail.com |
+| **Kontakt (administratorzy Allegro)** | sklep@deku.pl |
 | **Obsługiwane konta sprzedażowe (własne)** | `sonem`, `sonem_pl`, `karmywsieci_pl`, `agdwsieci_pl`, `deku_pl`, `czarodziejeu` |
 | **Sklepy internetowe** | https://deku.pl, https://agdwsieci.pl |
 
