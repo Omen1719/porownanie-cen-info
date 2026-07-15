@@ -96,4 +96,4 @@ numer wersji przy aktualizacji aplikacji).
 ## Kontakt
 
 W sprawach dotyczących ruchu API generowanego przez tę aplikację prosimy o kontakt:
-**bartula.michal1@gmail.com**
+**sklep@deku.pl**
